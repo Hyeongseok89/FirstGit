@@ -1,0 +1,6 @@
+git init
+git add 파일명
+git config --global user.name "영문이름"
+git config --global user.email "hczzang2@naver.com"
+git init
+git commit -m "메세지"
