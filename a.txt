@@ -1,3 +1,5 @@
+Hello World
+Hello Git
 git init
 git add 파일명
 git config --global user.name "영문이름"
