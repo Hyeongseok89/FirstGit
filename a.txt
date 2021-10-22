@@ -9,3 +9,6 @@ git commit -m "메세지"
 바뀐 파일 중에 이미 깃이 파일 트래킹하는
 파일은 바뀐 부분이 있으면 자동으로 커밋
 git commit -am 
+git add * 모든 파일 저장
+git log 파일 저장 기록
+git diff 변경사항 확인
