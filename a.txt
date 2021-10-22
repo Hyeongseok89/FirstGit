@@ -1,5 +1,8 @@
 Hello World
 Hello Git
+
+구글에서 git 검색해서 git 다운로드한 다음 c 드라이브에 git 폴더 생성
+git 폴더 들어가서 우클릭하면 git Bash Dash 클릭해서 아래와같은 명령문 실행
 git init
 git add 파일명
 git config --global user.name "영문이름"
@@ -14,3 +17,8 @@ git log 파일 저장 기록
 git diff 변경사항 확인
 git checkout 커밋넘버
 git checkout master
+git reset 추가한 작업 초기화
+
+git branch -M main master 에서 main 으로 변경
+git remote add origin https://github.com/hczzang2/FirstGit.git 깃허브 주소 초기값 설정 
+git push origin main 업로드
