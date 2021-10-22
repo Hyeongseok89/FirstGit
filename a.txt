@@ -6,3 +6,6 @@ git config --global user.name "영문이름"
 git config --global user.email "hczzang2@naver.com"
 git init
 git commit -m "메세지"
+바뀐 파일 중에 이미 깃이 파일 트래킹하는
+파일은 바뀐 부분이 있으면 자동으로 커밋
+git commit -am 
