@@ -13,7 +13,7 @@ git commit -m "메세지"
 파일은 바뀐 부분이 있으면 자동으로 커밋
 git commit -am 
 git add * 모든 파일 저장
-git log 파일 저장 기록
+git log 파일 저장 기록 -> q 눌리면 검색창으로 빠져나옴
 git diff 변경사항 확인
 git checkout 커밋넘버
 git checkout master
